@@ -1,23 +1,39 @@
-# 🐞 Mani-XTech Stylish Bug Bot
+<div align="center">
 
-> *Automated bug tracking with a sleek twist*
+# 🤖 BUG-BOT-BY-MANI
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.9+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+### ⚡ Advanced WhatsApp Multi Device Bot
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=WhatsApp+Multi+Device+Bot;Fast+%7C+Secure+%7C+Powerful;Created+By+MANI-XTECH07" />
+
+<p>
+  <img src="https://img.shields.io/github/stars/MANI-XTECH07/BUG-BOT-BY-MANI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/MANI-XTECH07/BUG-BOT-BY-MANI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/MANI-XTECH07/BUG-BOT-BY-MANI?style=for-the-badge" />
+</p>
+
+</div>
+
+---
 
 ## ✨ Features
 
-- 🔍 **Auto Bug Detection** – Scans logs, UI, and APIs
-- 📢 **Real-time Alerts** – Discord, Slack, or Telegram
-- 🏷️ **Smart Tagging** – Priority + severity auto-assigned
-- 📊 **Stylish Dashboard** – Live analytics & charts
-- 🔗 **Webhook Ready** – Plug into GitHub, Jira, or Jenkins
+- 🤖 Auto Reply System
+- 🌍 Multi Language Support
+- 🎵 Music Play Command
+- 👤 User Detection
+- 📊 WhatsApp Analytics
+- 🔒 Secure Session Management
+- ⚡ Fast Response
+- 🛠️ Custom Commands
+- 📱 Multi Device Support
 
-## 🚀 Quick Start
+---
+
+## 🚀 Deployment
+
+### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/mani-xtech-stylish-bug-bot.git
-cd mani-xtech-stylish-bug-bot
-pip install -r requirements.txt
-python bot.py
+git clone https://github.com/MANI-XTECH07/BUG-BOT-BY-MANI.git
+cd BUG-BOT-BY-MANI
